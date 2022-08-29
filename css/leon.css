@@ -307,7 +307,7 @@ position: relative;
    padding-bottom: var(--section-padding) + 60px;
  } 
  .About .About-content{
-   margin: 100px;
+   margin-top: 100px;
    display: flex;
    flex-wrap: wrap;
    justify-content: space-between;
